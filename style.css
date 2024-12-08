@@ -1,0 +1,23 @@
+.list-group-item span,
+.list-group-item img {
+  cursor: pointer;
+}
+
+.list-group-item img {
+  width: 20px;
+  height: 20px;
+}
+body {
+  background: #444 url("./assets/flower-coffee-surprise.jpg") no-repeat top /
+    cover;
+  background-blend-mode: overlay;
+  height: 100vh;
+}
+/* video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+} */
